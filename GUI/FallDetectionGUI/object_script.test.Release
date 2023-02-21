@@ -1,0 +1,10 @@
+release/main.o
+release/myclass.o
+release/myvideo.o
+release/qcustomplot.o
+release/widget.o
+release/qrc_qml.o
+release/moc_myclass.o
+release/moc_myvideo.o
+release/moc_qcustomplot.o
+release/moc_widget.o

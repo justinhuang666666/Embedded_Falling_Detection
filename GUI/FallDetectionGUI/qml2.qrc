@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fallthreeDmodel.qml</file>
+        <file>Falling.fbx</file>
+    </qresource>
+</RCC>
